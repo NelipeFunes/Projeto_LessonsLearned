@@ -2,13 +2,23 @@ body{
  background-color: rgb(253, 251, 251);   
 }
 #cabecalho{
- position:fixed;
- top:0px;
+position:fixed;
+top:0px;
+width: 100%;
+background-color: aqua;
 }
-#nome{
-    font-size:20px;
-}
+
 #minha_foto{
 width: 200px;
-padding: 80px;
+padding: 70px;
+margin-top: 2%;
+}
+#link_externo{
+font-size: 30px;
+}
+#licoes_aprendidas{
+display:inline-block;
+}
+#licoes_a_aprender{
+display: inline-block;
 }
