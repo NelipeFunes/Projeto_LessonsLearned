@@ -25,3 +25,8 @@ display: inline-block;
 .nav{
     text-decoration: none;
 }
+.table{
+    padding: 5px;
+    margin:20px ;
+    border:2px solid black
+}
